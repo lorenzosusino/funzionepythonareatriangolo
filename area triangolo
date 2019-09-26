@@ -1,0 +1,11 @@
+>>> # calcolo area triangolo tramite funzione #
+... 
+>>> def area(b, h):
+...     return b+h/2
+... 
+>>> base = 5
+>>> height = 3
+>>> areatriangolo = area(base, height)
+>>> print(areatriangolo)
+6.5
+
